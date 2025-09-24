@@ -1,5 +1,8 @@
 # Yearly Amount Predictor
 
+##Live Demo 
+Check out the deployed app here: [Yearly amount predictor](https://yearly-amount-spent-predictor-khyugmv8nvwzbousvmmbrj.streamlit.app/)
+
 A Streamlit web app that predicts the yearly amount spent by a user based on four input features using a trained Linear Regression model.
 
 ## Features
