@@ -16,8 +16,8 @@ A Streamlit web app that predicts the yearly amount spent by a user based on fou
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/yearly-amount-predictor.git
-cd yearly-amount-predictor
+git clone https://github.com/SangamithraS15707/Yearly-amount-spent-predictor.git
+cd Yearly-amount-spent-predictor
 ```
 
 ### 2. Install dependencies
