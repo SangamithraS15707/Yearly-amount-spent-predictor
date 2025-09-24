@@ -1,0 +1,1 @@
+# Yearly-amount-spent-predictor
